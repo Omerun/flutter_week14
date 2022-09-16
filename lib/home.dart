@@ -50,8 +50,8 @@ class _HomePageState extends State<HomePage> {
         child: ListView(
           children: [
             UserAccountsDrawerHeader(
-              accountName: Text("Mark"),
-              accountEmail: Text("mark@gmail.com"),
+              accountName: Text("วรเมธ"),
+              accountEmail: Text("1513finger@gmail.com"),
               currentAccountPicture: CircleAvatar(
                 child: Icon(Icons.android),
               ),

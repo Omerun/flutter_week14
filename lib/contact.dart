@@ -15,9 +15,9 @@ class ContactPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text("ติดต่อเรา: Mr.Mark Zuckaberg"),
-            Text("เบอร์โทร: 0954720124"),
-            Text("mark@gmail.com"),
+            Text("ติดต่อเรา: วรเมธ สังข์ทิน"),
+            Text("เบอร์โทร: 0955828193"),
+            Text("1513f5nger@gmail.com"),
           ],
         ),
       ),
